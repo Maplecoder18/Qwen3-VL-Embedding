@@ -42,10 +42,10 @@ class MMEBEmbeddingModel(nn.Module):
              instruction: Optional[str] = None,
              **kwargs) -> "MMEBEmbeddingModel":
         """Load model from pretrained checkpoint."""
-        # Use correct parameter name: Qwen3VLEmbedder expects 'default_instruction', not 'instruction'
+        default_instruction = kwargs.pop('default_instruction', instruction)
         encoder = Qwen3VLEmbedder(
             model_name_or_path=model_name_or_path,
-            default_instruction=instruction,
+            default_instruction=default_instruction or "Represent the user's input.",
             **kwargs
         )
         return cls(encoder=encoder, normalize=normalize, temperature=temperature)
